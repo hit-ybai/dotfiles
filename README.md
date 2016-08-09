@@ -1,4 +1,4 @@
-## Larry Lv Dot Files
+## Yu Bai Dot Files
 
 These are config files to set up a system the way I like it.
 
@@ -7,7 +7,7 @@ These are config files to set up a system the way I like it.
 If you don't want to compile YouCompleteMe manually, you should uncomment the do block for line `Plug 'Valloric/YouCompleteMe' ", { 'do': './install.py --clang-completer' }` by simply removing the `"` mark.
 
 ```
-git clone git://github.com/larrylv/dotfiles.git ~/.dotfiles
+git clone git://github.com/hit-ybai/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 rake install
 vim +PlugInstall +qall
@@ -31,4 +31,4 @@ It will work on Mac OS X and Linux.
 
 ### Vim Plugins
 
-https://github.com/larrylv/dotfiles/blob/master/vimrc#L12
+https://github.com/hit-ybai/dotfiles/blob/master/vimrc#L12
